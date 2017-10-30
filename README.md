@@ -4,4 +4,4 @@
 
 ### Branding
 
-- [Discord](https://discordapp.com/branding)
+- [Discord](https://discordapp.com/branding) / [print](discordapp.com-branding.png)
