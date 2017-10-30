@@ -1,4 +1,4 @@
-# References Of Everythingi
+# References Of Everything
 
 ## Design
 
